@@ -4174,8 +4174,8 @@ Config.Vehicles = {
         ['shop'] = 'pdm',
     },
 --################################################# Super
-    ['811'] = {
-        ['name'] = '811',
+    ['pfister811'] = {
+        ['name'] = 'Pfister 811',
         ['brand'] = 'Pfister',
         ['model'] = 'pfister811',
         ['price'] = 1135000,
